@@ -1,7 +1,5 @@
 #!/bin/bash
-#
-# Author: Sharad Kumar Chhetri
-# Date : 27-April-2015
+# NOTE: The script you have to run in each cassandra node server.
 # Description : The backup script will complete the backup in 2 phases -
 #  1. First Phase: Taking backup of Keyspace SCHEMA
 #  2. Seconf Phase: Taking snapshot of keyspaces
